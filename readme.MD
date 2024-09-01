@@ -8,7 +8,7 @@
   </samp>
  </p>
 
-Staff R&D UI/Frontend Engineer at [Synopsys inc.](https://synopsys.com).
+Staff R&D UI/Frontend Engineer at [Synopsys inc](https://synopsys.com).
 
 #### Other links
 
