@@ -13,5 +13,5 @@ Staff R&D UI/Frontend Engineer at [Synopsys inc](https://synopsys.com).
 #### Other links
 
 - 🛠 See my personal projects [here](https://rohitdasu.com).
-- 📚 I share my learnings at [blogs.rohitdasu.com](https://blogs.rohitdasu.com).
+- 📚 I share my learnings at [rohitdasu.hashnode.com](https://rohitdasu.hashnode.com).
 - 💬 Ask me about anything [here](https://github.com/rohitdasu/rohitdasu/issues).
